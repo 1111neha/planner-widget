@@ -1,5 +1,5 @@
 
-Deployment Link:[planner-widget.vercel.app](planner-widget.vercel.app) 
+Deployment Link: [planner-widget.vercel.app](planner-widget.vercel.app) 
 
 
 # Getting Started with Create React App
